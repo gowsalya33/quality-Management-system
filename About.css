@@ -1,0 +1,18 @@
+
+
+.container1 {
+    width: 100%;
+    color:white;
+    height:100px;
+    margin-top: 10px;
+    background-color: black;
+}
+.mission{
+    font-size: 30px;
+    margin-left: 70px;
+   
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+

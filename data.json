@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "username": "adam",
+      "password": "123"
+    },
+    {
+      "username": "admin",
+      "email": "21@psr",
+      "password": "124"
+    }
+  ],
+  "Student": [
+    {
+      "id": "1",
+      "Product": "stationary",
+      "Quality": "80",
+      "Date": "2/8/2000",
+      "Price": "50",
+      "Review": "https://th.bing.com/th/id/OIP.WbMAo4RG7CWmfxSniPQTmAHaEH?w=264&h=180&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+      "id": "2",
+      "Product": "product",
+      "Quality": "90",
+      "Date": "6/7/9000",
+      "Price": "67",
+      "Review": "https://th.bing.com/th/id/OIP.WbMAo4RG7CWmfxSniPQTmAHaEH?w=264&h=180&c=7&r=0&o=5&pid=1.7"
+    }
+    
+  ]
+}
